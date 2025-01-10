@@ -22,4 +22,7 @@ Insights:
 This dashboard empowers organizations to:  
 Monitor and track complaint resolution efficiency.  
 Identify high-dispute areas for targeted improvements.  
-Gain a holistic understanding of consumer pain points and optimize processes accordingly.  
+Gain a holistic understanding of consumer pain points and optimize processes accordingly. 
+
+Output:
+![Screenshot 2025-01-09 211646](https://github.com/user-attachments/assets/6964ced0-96ef-41b0-85fa-720b3461f43d)
